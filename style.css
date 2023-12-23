@@ -234,6 +234,11 @@ footer {
     width: 50%;
 }
 
+.find-us-hr {
+    color: #f24c4c;
+    width: 40%;
+}
+
 .footer-cover {
     display: flex;
     justify-content: space-evenly;
@@ -267,30 +272,37 @@ footer {
     width: 45px;
     margin: 10px 10px;
 }
-.last{
+
+.last {
     display: flex;
-    margin:  5% 0;
+    margin: 5% 0;
 }
-.end{
+
+.end {
     display: flex;
 }
-.group-icon{
+
+.group-icon {
     width: 79px;
     height: 90px;
     margin-left: 50px;
 }
-.end-div p{
-   color: white;
-   margin-left: 30px;
+
+.end-div p {
+    color: white;
+    margin-left: 30px;
 }
-.end-div{
+
+.end-div {
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.end-div img{
+
+.end-div img {
     width: 35px;
 }
-.mi-div{
+
+.mi-div {
     margin-left: 800px;
 }
